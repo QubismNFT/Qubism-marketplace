@@ -1,0 +1,15 @@
+[
+    {    
+        "iconsData" :[
+            {"icoClass":"fa fa-facebook-f"},{"icoClass":"fa fa-twitter"},
+            {"icoClass":"fa fa-google-plus"},{"icoClass":"fa fa-linkedin"},
+            {"icoClass":"fa fa-instagram"}        
+        ]
+    },
+    {    
+        "infoData":[
+            {"text":"9, Av. nuno krus abecassis, Lisbon"},
+            {"text":"info@qubism.org"}
+        ]
+    }
+]

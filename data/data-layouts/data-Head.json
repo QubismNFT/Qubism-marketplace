@@ -1,0 +1,18 @@
+[
+    {    
+        "explore" :[
+            {
+                "path":"/explore",
+                "title":"All NFTS"
+            },
+            {
+                "path":"/auctions",
+                "title":"Live Auctions"
+            },
+            {
+                "path":"/listed",
+                "title":"Listed Items"
+            }
+        ]
+    }
+]
